@@ -8973,7 +8973,7 @@ const Pd = [
   Nd = [
     {
       id: 1,
-      img: "/public/assets/Projects/Pick and Place device.png",
+      img: "/assets/Projects/Pick and Place device.png",
       alt: "Image",
       projectName: "Pick and Place Machine ",
       projectDetails:
@@ -8989,7 +8989,7 @@ const Pd = [
     },
     {
       id: 7,
-      img: "/public/assets/Projects/MGP.png",
+      img: "/assets/Projects/MGP.png",
       alt: "Image",
       projectName: "Medical Grade 3D Printer",
       projectDetails:
@@ -8997,7 +8997,7 @@ const Pd = [
     },
     {
       id: 4,
-      img: "/public/assets/Projects/IPC.png",
+      img: "/assets/Projects/IPC.png",
       alt: "Image",
       projectName: "Intelligent Patient Care System",
       projectDetails:
@@ -9005,7 +9005,7 @@ const Pd = [
     },
     {
       id: 5,
-      img: "/public/assets/Projects/B S I.png",
+      img: "/assets/Projects/B S I.png",
       alt: "Image",
       projectName: "Construction of maxillo craniofacial implants",
       projectDetails:
@@ -9013,7 +9013,7 @@ const Pd = [
     },
     {
       id: 6,
-      img: "/public/assets/Projects/BPA.png",
+      img: "/assets/Projects/BPA.png",
       alt: "",
       projectName: "Bionic Prosthetic Arm",
       projectDetails:
@@ -9021,7 +9021,7 @@ const Pd = [
     },
     {
       id: 8,
-      img: "/public/assets/Projects/AWPS1.png",
+      img: "/assets/Projects/AWPS1.png",
       alt: "",
       projectName: "Eye Tracking Sytem for Patient Care",
       projectDetails:
@@ -9029,7 +9029,7 @@ const Pd = [
     },
     {
       id: 9,
-      img: "/public/assets/Projects/ekart.png",
+      img: "/assets/Projects/ekart.png",
       alt: "",
       projectName: "Electric Go-Kart",
       projectDetails:
